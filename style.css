@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.catBgImage{
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+}
+#bg{
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    
+}
+h1{
+    font-size: 4rem;
+    text-align: center;
+    /* margin: rem; */
+    position: relative;
+}
+button{
+    display: block;
+    font-size: 1.25rem;
+    text-align: center;
+    margin: auto;
+    margin-top: 2rem;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    justify-content: center;
+    position: relative;
+}
+p{
+
+    font-size: 2rem;
+    text-align: center;
+    margin: auto;
+    margin-top: 2rem;
+    padding: 0.5rem;
+   font-weight: 700;
+    color: black;
+    position: relative;
+}
